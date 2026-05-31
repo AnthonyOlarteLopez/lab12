@@ -1,6 +1,5 @@
 <?php
-// $apiKey = getenv('WEATHER_API_KEY');
-$apiKey ="2236ff9e5acd437a0eb417766dafa3ea";
+$apiKey = getenv('WEATHER_API_KEY');
 
 $mensajeError = '';
 $result = null;
